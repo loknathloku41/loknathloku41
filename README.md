@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Loknadh%20Mullapudi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Test%20Automation%20Architect&descAlignY=55&descSize=20" width="100%"/>
 
-<h2 align="center">A passionate Sr.Software Engineer specialized in Test Automation with over 10+ years of industry experience</h3>
+<h3 align="center">A passionate Sr.Software Engineer specialized in Test Automation with over 10+ years of industry experience</h3>
 <a href="https://github.com/naveenanimation20">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20Scalable%20Reliable%20Test%20Automation%20Frameworks" alt="Typing SVG" />
 </a>
@@ -65,12 +65,13 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/dotnet-7D64FF?style=for-the-badge&logo=dotnet">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=Angular&logoColor=61DAFB" alt="Angular"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/MSSQLSERVER-4169E1?style=for-the-badge&logo=mssql&logoColor=white" alt="MSSQLServer"/>
+<img src="https://img.shields.io/badge/MSSQL-white?style=for-the-badge&logo=mssql&logoColor=white" alt="MS SQLServer"/>
 
 </div>
 
@@ -84,13 +85,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/octopus%20deploy-blue?style=for-the-badge&logo=octopusdeploy&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/bamboo-0052CC?style=for-the-badge&logo=bamboo"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
 <img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="seleniumgrid"/>
 </div>
 
