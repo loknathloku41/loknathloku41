@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Loknadh%20Mullapudi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Test%20Automation%20Architect&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:ff7a18,100:0b1220&height=200&section=header&text=Loknadh%20Mullapudi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Test%20Automation%20Architect&descAlignY=55&descSize=20" width="100%"/>
 
 <h3 align="center">A passionate Sr.Software Engineer specialized in Test Automation with over 10+ years of industry experience</h3>
 <a href="https://github.com/naveenanimation20">
