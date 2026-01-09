@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Sr.Software Engineer specialized in Test Automation with over 10+ years of industry experience</h3>
 <a href="https://github.com/naveenanimation20">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20Scalable%20Reliable%20Test%20Automation%20Frameworks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20Scalable%20Reliable%20Test%20Automation%20Frameworks" alt="Typing SVG" />
 </a>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -11,21 +11,61 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-- 🔭 I’m currently using **Playwright, JS, TS, C#, .Net, Azure, Terraform, OctopusDeploy**
+<!-- Visual snapshot card -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
-- 🌱 I’m currently learning **LLMs, LangGraph, LangChain, DeepEval,RAGA'S**
+### Snapshot
+<p>
+<img src="https://github.com/loknathloku41.png" alt="avatar" width="72" style="border-radius:50px; vertical-align:middle" />  
+<strong style="font-size:1.05em">Loknadh Mullapudi</strong> — Senior Software Engineer (Test Automation)
+</p>
 
-- 👯 I’m looking to collaborate on **Playwright, Cypress, Vibium, Selenium, CICD**
+- 🔎 10+ years building scalable & reliable test automation frameworks and improving CI/CD workflows  
+- 🎯 Focus: test strategy, resilient E2E automation, observability in test runs, and scalable test infra  
+- 🚀 I help teams reduce flakiness, shorten feedback loops, and ship confidently
 
-- 🤝 I’m looking for help with **MCP servers, N8N**
+### What I do
+- ✅ Architect & implement Playwright / Selenium frameworks (JS/TS/C#/.NET) with various design patterns 
+- ✅ Integrate tests into pipelines: GitHub Actions, Azure DevOps, Jenkins, OctopusDeploy  
+- ✅ Performance & load testing with JMeter and k6  
+- ✅ Coaching teams on test design, flaky test elimination, and shift-left QA
 
-- 👨‍💻 All of my projects are available at [https://github.com/loknathloku41](https://github.com/loknathloku41)
+</td>
+<td valign="top" width="40%">
 
-- 💬 Ask me about **Testing Process,Playwright,Selenium,Framework SetUp, CI/CD**
+### Quick Facts
+- 📍 Location: San Antonio,Texas,USA  
+- 💼 Role: Senior Software Engineer — Test Automation  
+- 🧾 Experience: 10+ years in QA & Automation  
+- 💡 Current Focus: LLMs, LangGraph, LangChain, RAGs & AI-driven Automation Testing  
+- 🔭 Tools I use:
+  - Playwright · Cypress · Selenium · REST-Assured  
+  - Javascript · TypeScript · C# · .NET · Node.js · Python  
+  - Azure · Terraform · Docker · Kubernetes · Octopus Deploy
 
-- 📫 How to reach me **mullapudiloknadh@gmail.com**
+### Get in touch
+- 📫 Email: [mullapudiloknadh@gmail.com](mailto:mullapudiloknadh@gmail.com)  
+- 🔗 LinkedIn: [loknadh-mullapudi](https://linkedin.com/in/loknadh-mullapudi-27952815b)  
+- 🧰 Projects: [github.com/loknathloku41](https://github.com/loknathloku41)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## Highlights & Specialties
+
+- 🏗 Framework Design: modular, maintainable test architecture (Page Object, TDD, BDD)  
+- 🧪 Reliability: test flakiness analysis, retry strategy, stable locators & selectors  
+- 🔁 CI/CD: pipeline optimization, parallelization, test selection strategies  
+- 📊 Reporting: Native HTML Reports, Allure/ExtentReports, Reportportal.io actionable failure triage and metrics  
+- 👥 Mentoring: coaching SDETs, cross-functional QA enablement
+
+---
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
